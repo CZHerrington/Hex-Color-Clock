@@ -1,6 +1,7 @@
 body {
-  background-color: #1A1A1A;
+  background-color: red;
   font-family: 'Roboto', sans-serif;
+  transition: all 1s;
 };
 
 .container {
