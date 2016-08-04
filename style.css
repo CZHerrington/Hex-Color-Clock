@@ -1,5 +1,5 @@
 body {
-  background-color: #2C4985;
+  background-color: #1A1A1A;
   font-family: 'Roboto', sans-serif;
 };
 
@@ -12,6 +12,6 @@ body {
   margin: 0 auto;
   color: white;
   text-align: center;
-  font-size: 50px;
+  font-size: 58px;
   font-weight: 200;
 }
